@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MiPersonalPresentation</string>
+    <string name="hola">Hello World!</string>
 </resources>

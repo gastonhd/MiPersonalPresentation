@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369043127790",
+    "firebase_url": "https://mipersonalpresentation.firebaseio.com",
+    "project_id": "mipersonalpresentation",
+    "storage_bucket": "mipersonalpresentation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369043127790:android:fa561f708be616738d22ff",
+        "android_client_info": {
+          "package_name": "com.gastondominguez.mipersonalpresentation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369043127790-juk28von8qecf1dlhel92lmo089u8ga3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAiDSEI9YYj81mJFZv5SQVnkNmZhWmBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369043127790-juk28von8qecf1dlhel92lmo089u8ga3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
